@@ -11,7 +11,9 @@ CS grad from the University of Houston passionate about building things that liv
 \- 🎓 B.S. Computer Science, University of Houston
 
 \-🌍  I'm based in Houston, Texas
+
 \-🖥️  See my portfolio at [rikkicasupanan.com](http://rikkicasupanan.com)
+
 \-✉️  You can contact me at [rikkicasupanan.dev@gmail.com](mailto:rikkicasupanan.dev@gmail.com)
 
 * 🛠️  I'm currently working on:
