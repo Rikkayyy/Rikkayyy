@@ -6,8 +6,6 @@ Full-stack Developer
 
 CS grad from the University of Houston passionate about building things that live at the intersection of technology and creativity. I enjoy full-stack web development, cloud infrastructure, and the occasional photography side quest.
 
-\- 🛠️ Currently working on: A dual-purpose portfolio showcasing both my developer and photography work, plus client projects like local business websites.
-
 \- ☁️ AWS Cloud Practitioner
 
 \- 🎓 B.S. Computer Science, University of Houston
@@ -17,7 +15,7 @@ CS grad from the University of Houston passionate about building things that liv
 * ✉️  You can contact me at [rikkicasupanan.dev@gmail.com](mailto:rikkicasupanan.dev@gmail.com)
 
 * 🛠️  I'm currently working on:
-* 🗃️　[Dual-purpose portfolio website](http://rikkicasupanan.com)
+* 🗃️[Dual-purpose portfolio website](http://rikkicasupanan.com)
 * 🧋[Rose Tea House Website](http://roseteahouse.com/)
 * 🎯Pursuit Mobile Goal Tracking app
 * 🛢️Energy Dashboard
