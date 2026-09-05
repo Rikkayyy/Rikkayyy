@@ -8,7 +8,8 @@ CS grad from the University of Houston passionate about building things that liv
 
 \- ☁️ AWS Cloud Practitioner
 
-\- 📚 M.S. Computer Science, Georgia Institute of Technology - Computing Systems & Artificial Intelligence Specialization
+\- 📚 M.S. Computer Science, Georgia Institute of Technology - Computing Systems & Artificial Intelligence Specialization (in progress)
+
 \- 🎓 B.S. Computer Science, University of Houston
 
 \-🌍  I'm based in Houston, Texas
